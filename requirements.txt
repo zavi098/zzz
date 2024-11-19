@@ -1,0 +1,7 @@
+streamlit
+pymongo
+nltk
+PyPDF2
+python-docx
+google-generativeai
+python-dotenv
